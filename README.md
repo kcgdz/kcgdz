@@ -11,7 +11,7 @@ I explore the intersection of **printing, computer vision & AI** — and build t
 [![Website](https://img.shields.io/badge/keremcan.org-Visit_my_studio-f3b65b?style=for-the-badge&labelColor=292524)](https://keremcan.org)
 [![Projects](https://img.shields.io/badge/GitHub-Explore_my_projects-68b9cd?style=for-the-badge&logo=github&labelColor=292524)](https://github.com/kcgdz?tab=repositories)
 
-**Fikir → Plan → Üret → Paylaş → Geliştir**
+**Imagine → Plan → Build → Share → Improve**
 
 </div>
 
@@ -46,7 +46,7 @@ I like turning a small “what if?” into something you can actually use.
 <summary><b>Step inside the workshop ☀️</b></summary>
 <br />
 <p align="center"><img src="assets/kcg-workshop.png" width="600" alt="KCG's creative workshop with a pixel character, sketchbook and warm sunset light" /></p>
-<p align="center"><i>Küçük fikirler büyük şeylere dönüşür.</i></p>
+<p align="center"><i>Small ideas grow into great things.</i></p>
 </details>
 
 <div align="center">
@@ -58,3 +58,4 @@ Explore a project, try it out, or open an issue with your feedback.
 [**keremcan.org ↗**](https://keremcan.org)
 
 </div>
+
