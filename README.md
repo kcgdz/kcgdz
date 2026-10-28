@@ -2,21 +2,17 @@
 
 <img src="assets/creative-studio.webp" width="100%" alt="A creative studio overlooking Istanbul in the warm light of sunset" />
 
-<br /><br />
+<br />
 
-<sup>K E R E M &nbsp; C A N &nbsp; / &nbsp; I N D E P E N D E N T &nbsp; M A K E R</sup>
-
-# A quiet place to make good things.
-
-Practical tools. Curious experiments. A little room to play.
-
-I work where **print, computer vision, and AI** meet — turning small ideas into things you can use.
+<img src="assets/studio-sign.svg" width="100%" alt="Kerem Can / The Workshop — Small ideas. Made real. Print, AI, and things worth making." />
 
 <br />
 
-[Website ↗](https://keremcan.org) &nbsp;&nbsp; / &nbsp;&nbsp; [Projects ↗](https://github.com/kcgdz?tab=repositories)
+I build tools for **print, computer vision, and AI** — with a soft spot for pixels and side projects.
 
-<br /><br />
+[**Visit the studio ↗**](https://keremcan.org) &nbsp; · &nbsp; [**Explore the work ↗**](https://github.com/kcgdz?tab=repositories)
+
+<br />
 
 </div>
 
@@ -24,9 +20,9 @@ I work where **print, computer vision, and AI** meet — turning small ideas int
 
 <br />
 
-### Selected work
+### From the workbench
 
-A few things from the workshop. Built to be useful, made with curiosity.
+Six projects. One curious workshop.
 
 <table>
 <tr>
