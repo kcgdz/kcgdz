@@ -1,63 +1,95 @@
 <div align="center">
 
-<img src="assets/creative-studio.webp" width="100%" alt="A warm creative studio overlooking Istanbul at sunset" />
+<img src="assets/creative-studio.webp" width="100%" alt="The studio at golden hour — a quiet desk, a sleeping cat, and Istanbul outside" />
 
-# Hey, I'm Kerem Can 👋
+<br />
 
-### Small ideas. Useful tools. A better version, every day.
+<sup>K E R E M &nbsp; C A N &nbsp; / &nbsp; T H E &nbsp; W O R K S H O P</sup>
 
-I explore the intersection of **printing, computer vision & AI** — and build tools that make everyday work a little easier.
+# Good light. Small ideas. Real things.
 
-[![Website](https://img.shields.io/badge/keremcan.org-Visit_my_studio-f3b65b?style=for-the-badge&labelColor=292524)](https://keremcan.org)
-[![Projects](https://img.shields.io/badge/GitHub-Explore_my_projects-68b9cd?style=for-the-badge&logo=github&labelColor=292524)](https://github.com/kcgdz?tab=repositories)
+A little print. A little AI. A lot of “what if?”
 
-<img src="assets/workshop-flow.gif" width="100%" alt="A warm golden light moving through the creative process" />
+I’m Kerem — I build useful tools and leave room for play.
 
-**Imagine → Plan → Build → Share → Improve**
+<br />
+
+[![Studio](https://img.shields.io/badge/↗_STEP_INSIDE-keremcan.org-e9b86e?style=flat-square&labelColor=292522)](https://keremcan.org)
+&nbsp;
+[![Explore](https://img.shields.io/badge/↗_LOOK_AROUND-open_source-8cb5c3?style=flat-square&labelColor=292522)](https://github.com/kcgdz?tab=repositories)
+
+<br />
+
+<img src="assets/workshop-flow.gif" width="100%" alt="A slow golden light drifting through the workshop" />
+
+<sub>IMAGINE &nbsp; / &nbsp; MAKE &nbsp; / &nbsp; SHARE &nbsp; / &nbsp; REPEAT</sub>
+
+<br /><br />
 
 </div>
 
----
+### A few things from my desk
 
-## Welcome to my workshop
+Tools for real work. Experiments for the fun of it.
 
-A place for practical experiments, creative side projects, and tools that earn their place on your desktop. My projects move between print production, AI workflows, browser tools, and playful interfaces.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I like turning a small “what if?” into something you can actually use.
+<a href="https://github.com/kcgdz/ReliefDrop"><img src="assets/reliefdrop.svg" width="100%" alt="01 / ReliefDrop — From pixels to something you can hold" /></a>
 
-## Things I've been building
+Images into layered 3D logos, stamps, keychains and reliefs. Right in your browser.
 
-| Project | What it does |
-| :--- | :--- |
-| [**ReliefDrop**](https://github.com/kcgdz/ReliefDrop) | Turn images into layered 3D logos, keychains, stamps and reliefs in your browser. |
-| [**LumiControl**](https://github.com/kcgdz/LumiControl) | Comfortable brightness for Windows monitors, with smooth sliders and saved setups. |
-| [**Ink Calculator**](https://github.com/kcgdz/ink-calculator) | Estimate print-run ink consumption and custom mixture costs. |
-| [**mcp-print**](https://github.com/kcgdz/mcp-print) | Connect AI workflows with print and color tools through MCP. |
-| [**Byte**](https://github.com/kcgdz/byte) | Collect, summarize and categorize RSS news with AI. |
-| [**Taykut Arcade**](https://github.com/kcgdz/taykut-arcade) | A playful corner of the workshop: retro pixel art and arcade nostalgia. |
+[Take a look ↗](https://github.com/kcgdz/ReliefDrop)
 
-## The thread that connects it all
+</td>
+<td width="50%" valign="top">
 
-**Print & color** · Production tools with a practical purpose.  
-**AI & automation** · Less repetitive work, more room for ideas.  
-**Creative software** · Useful tools with a little personality.
+<a href="https://github.com/kcgdz/LumiControl"><img src="assets/lumicontrol.svg" width="100%" alt="02 / LumiControl — A softer glow for your screen" /></a>
 
----
+Comfortable monitor brightness, smooth controls and saved setups for Windows.
 
-<details>
-<summary><b>Step inside the workshop ☀️</b></summary>
+[Take a look ↗](https://github.com/kcgdz/LumiControl)
+
+</td>
+</tr>
+</table>
+
 <br />
-<p align="center"><img src="assets/kcg-workshop.webp" width="600" alt="KCG's creative workshop with a pixel character, sketchbook and warm sunset light" /></p>
-<p align="center"><i>Small ideas grow into great things.</i></p>
-</details>
+
+| Also on the workbench | |
+| :--- | :--- |
+| [**mcp-print ↗**](https://github.com/kcgdz/mcp-print) | Where print & color meet AI workflows. |
+| [**Ink Calculator ↗**](https://github.com/kcgdz/ink-calculator) | A clearer estimate for your next print run. |
+| [**Byte ↗**](https://github.com/kcgdz/byte) | A little order in the daily news stream. |
+| [**Taykut Arcade ↗**](https://github.com/kcgdz/taykut-arcade) | Pixels, nostalgia, and one more round. |
+
+<br />
 
 <div align="center">
 
-### Have an idea? Let's make something useful.
+### Somewhere between a sketch and a working prototype.
 
-Explore a project, try it out, or open an issue with your feedback.
+That’s my favorite place to be.
 
-[**keremcan.org ↗**](https://keremcan.org)
+<br />
+
+<details>
+<summary>Pull up a chair ☀️</summary>
+<br />
+<img src="assets/kcg-workshop.webp" width="520" alt="A quiet corner of the KCG workshop" />
+<br /><br />
+Small ideas grow into great things. No rush. Just keep making.
+</details>
+
+<br /><br />
+
+<sup>PRINT & COLOR &nbsp; · &nbsp; COMPUTER VISION & AI &nbsp; · &nbsp; CREATIVE TOOLS</sup>
+
+<br /><br />
+
+[**Got a small idea? ↗**](https://keremcan.org)
+
+<sub>Make yourself at home.</sub>
 
 </div>
-
