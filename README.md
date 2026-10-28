@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/creative-studio.png" width="100%" alt="A warm creative studio overlooking Istanbul at sunset" />
+<img src="assets/creative-studio.webp" width="100%" alt="A warm creative studio overlooking Istanbul at sunset" />
 
 # Hey, I'm Kerem Can 👋
 
@@ -10,6 +10,8 @@ I explore the intersection of **printing, computer vision & AI** — and build t
 
 [![Website](https://img.shields.io/badge/keremcan.org-Visit_my_studio-f3b65b?style=for-the-badge&labelColor=292524)](https://keremcan.org)
 [![Projects](https://img.shields.io/badge/GitHub-Explore_my_projects-68b9cd?style=for-the-badge&logo=github&labelColor=292524)](https://github.com/kcgdz?tab=repositories)
+
+<img src="assets/workshop-flow.gif" width="100%" alt="A warm golden light moving through the creative process" />
 
 **Imagine → Plan → Build → Share → Improve**
 
@@ -45,7 +47,7 @@ I like turning a small “what if?” into something you can actually use.
 <details>
 <summary><b>Step inside the workshop ☀️</b></summary>
 <br />
-<p align="center"><img src="assets/kcg-workshop.png" width="600" alt="KCG's creative workshop with a pixel character, sketchbook and warm sunset light" /></p>
+<p align="center"><img src="assets/kcg-workshop.webp" width="600" alt="KCG's creative workshop with a pixel character, sketchbook and warm sunset light" /></p>
 <p align="center"><i>Small ideas grow into great things.</i></p>
 </details>
 
