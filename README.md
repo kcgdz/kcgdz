@@ -26,16 +26,16 @@ Six projects. One curious workshop.
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/kcgdz/ReliefDrop"><img src="assets/reliefdrop.svg" width="100%" alt="ReliefDrop — From pixels to objects." /></a></td>
-<td width="50%"><a href="https://github.com/kcgdz/LumiControl"><img src="assets/lumicontrol.svg" width="100%" alt="LumiControl — Find your comfortable glow." /></a></td>
+<td width="50%"><a href="https://github.com/kcgdz/ReliefDrop"><img src="assets/reliefdrop-workshop.svg" width="100%" alt="ReliefDrop — From pixels to objects." /></a></td>
+<td width="50%"><a href="https://github.com/kcgdz/LumiControl"><img src="assets/lumicontrol-workshop.svg" width="100%" alt="LumiControl — Find your comfortable glow." /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/kcgdz/mcp-print"><img src="assets/mcp-print.svg" width="100%" alt="mcp-print — Print expertise. Connected." /></a></td>
-<td width="50%"><a href="https://github.com/kcgdz/ink-calculator"><img src="assets/ink-calculator.svg" width="100%" alt="Ink Calculator — Every drop accounted for." /></a></td>
+<td width="50%"><a href="https://github.com/kcgdz/mcp-print"><img src="assets/mcp-print-workshop.svg" width="100%" alt="mcp-print — Print expertise. Connected." /></a></td>
+<td width="50%"><a href="https://github.com/kcgdz/ink-calculator"><img src="assets/ink-calculator-workshop.svg" width="100%" alt="Ink Calculator — Every drop accounted for." /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/kcgdz/byte"><img src="assets/byte.svg" width="100%" alt="Byte — Less noise. More signal." /></a></td>
-<td width="50%"><a href="https://github.com/kcgdz/taykut-arcade"><img src="assets/taykut-arcade.svg" width="100%" alt="Taykut Arcade — Make room for one more round." /></a></td>
+<td width="50%"><a href="https://github.com/kcgdz/byte"><img src="assets/byte-workshop.svg" width="100%" alt="Byte — Less noise. More signal." /></a></td>
+<td width="50%"><a href="https://github.com/kcgdz/taykut-arcade"><img src="assets/taykut-arcade-workshop.svg" width="100%" alt="Taykut Arcade — Make room for one more round." /></a></td>
 </tr>
 </table>
 
@@ -75,3 +75,4 @@ No rush. Just keep making.
 <sub>Stay curious. Make useful things. Enjoy the process.</sub>
 
 </div>
+
