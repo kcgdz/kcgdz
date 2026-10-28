@@ -5,6 +5,7 @@
 <br />
 
 <img src="assets/studio-sign.svg" width="100%" alt="Kerem Can / The Workshop — Small ideas. Made real. Print, AI, and things worth making." />
+<img src="assets/sunset-light.gif" width="100%" alt="A soft, slowly drifting amber sunset glow" />
 
 <br />
 
